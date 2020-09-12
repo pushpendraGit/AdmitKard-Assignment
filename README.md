@@ -23,14 +23,14 @@ The app must automatically start in your default browser now ,if it dosent you c
 ## What's inside there folders?
 `/client` -> Contains React files.  
 `/models` -> Contains models used in MongoDb.  
-`/config` -> Contains Configuration files of MongoDb.
-`/routes` -> Contains various routes like /question/add etc. 
-`/controllers` -> Contains controllers of various routes. 
-`index.js` -> this file is the entry point of the app. 
+`/config` -> Contains Configuration files of MongoDb.   
+`/routes` -> Contains various routes like /question/add etc.   
+`/controllers` -> Contains controllers of various routes.    
+`index.js` -> this file is the entry point of the app.   
 
 ## What technologies are used in this ?
 Frontend : ReactJS.  
-Backend  : NodeJS. 
+Backend  : NodeJS.   
 Database : MongoDb (Atlas). 
 
 
