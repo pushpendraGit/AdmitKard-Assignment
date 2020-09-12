@@ -2,6 +2,7 @@
 This repository contains my take on AdmitKard's Hiring Assignment
 
 ### Hosted App URL : https://mighty-headland-72140.herokuapp.com   (might take a minute to load for the first time)
+### Video explanation : https://drive.google.com/file/d/1Ol3WH0Y-wyTLyoRJUnCH2v6r8bFs2pbC/view?usp=sharing
 
 ## What's the app?
 This app provides the functionality of inserting Questions regarding admissions in foriegn universities, stores them into the database and then search the database for relevant questions.  
