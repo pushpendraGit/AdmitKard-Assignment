@@ -35,8 +35,8 @@ Database : MongoDb (Atlas).
 
 
 ## Can you show me how it looks?
-<p align="center"> Homepage/Searchpage
+Homepage/Searchpage
 ![Homepage/Search](logoak.png)
- </p>  
-<p align="center">Add Question Page</p>   
+
+Add Question Page   
 ![Add Question page](addquestion.png)
