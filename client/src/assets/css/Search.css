@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander&display=swap');
+
+.search{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.searchlogo {
+    width: 480px;
+    height: 159px;
+}
+
+.search input{
+    width: 560px;
+    height: 35px;
+    border-radius: 23px;
+    padding: 8px;
+    border: 1px solid #e3e3e3;
+    font-size: 15px;
+    outline:0;
+}
+
+#api-results{
+    display:none;
+    position: relative;
+    top: -1px;
+    width: 525px;
+    box-shadow: 0px 7px 12px -2px black;
+}
+
+#api-results ul {
+    margin: 0;
+    padding:0;
+}
+
+#api-results li{ 
+    padding:14px;
+    border-bottom:1px solid #e3e3e3;
+    list-style: none;
+    cursor: pointer;
+}
+#api-results li a{
+    text-decoration:none;
+}
+
+.show-question{
+    background-color: rgb(68, 74, 161);
+    display:none;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    width: 700px;
+    height: 300px;
+    border-radius: 7px;
+    position: fixed;
+    box-shadow: 1px 1px 11px 2px black;
+}
+
+.smallText{
+    color:white;
+    font-weight: bold;
+    width:90%;
+    font-family: 'Grandstander', cursive;
+
+}
+
+#close-question{
+    position: relative;
+    top: -80px;
+    left: 325px;
+    cursor: pointer;
+
+}
+
+.query-text{
+    color:white;
+    width: 90%;
+    font-size:20px;
+}
